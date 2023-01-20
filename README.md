@@ -3,7 +3,7 @@
 
 Welcome to my repository! This is a place where I will be storing and sharing all of my projects and code.
 
-https://www.codewars.com/users/David171901/badges/large
+![alt text](https://www.codewars.com/users/David171901/badges/large "codewars")
 
 ## Projects
 
