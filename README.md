@@ -15,8 +15,9 @@ Linkedin [Link](https://www.linkedin.com/in/david-marcelo-pino-santillan-9464622
 ### Practice projects
 
 1. Poke Api [Link](https://pokeapi-eosin-two.vercel.app/)
-2. Countries Api [Link](https://rest-countries-api-y2wl.vercel.app/)
-3. Travel with me [Link](https://david171901.github.io/Travel_Page_TailwindsCSS/)
+2. Google Keep Clone [Link](https://david171901.github.io/google-keep/) 
+3. Countries Api [Link](https://rest-countries-api-y2wl.vercel.app/)
+4. Travel with me [Link](https://david171901.github.io/Travel_Page_TailwindsCSS/)
 
 
 ## Support
