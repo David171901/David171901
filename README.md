@@ -1,19 +1,27 @@
 # David171901
-I'm a self-taught passionate FrontEnd developer from Peru 🧑‍💻
+Hello there! I am a frontend/fullstack developer with two years of professional experience building web applications. As a self-taught developer, I am passionate about technology and staying up-to-date with the latest web development trends. With a degree in engineering, I have worked on challenging projects that have allowed me to enhance my skills in handling multiple technologies. I am always on the lookout for new challenges that can help me improve my skills and knowledge 🧑‍💻.
+
+Personal Website [Link](https://blog-roo5.vercel.app/).
+
+## Social networks
+
+Linkedin [Link](https://www.linkedin.com/in/david-marcelo-pino-santillan-946462216/).
+
 
 ## Skills
-![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,bootstrap,tailwind,py,postgres,git,linux)
-## Projects
+![My Skills](https://skillicons.dev/icons?i=html,css,javascript,jquery,typescript,react,nextjs,tailwind,bootstrap,figma,py,nodejs,express,postgres,mongodb,git,linux)
 
-- **Carekore**: A brief description of the project and what it does.
-- **Fit2Fly**: A brief description of the project and what it does.
-- **Veo365**: A brief description of the project and what it does.
-- **Prixtips**: A brief description of the project and what it does.
-- **PCentrix**: A brief description of the project and what it does.
+## Projects
+### Practice projects
+
+1. Poke Api [Link](https://pokeapi-eosin-two.vercel.app/)
+2. Countries Api [Link](https://rest-countries-api-y2wl.vercel.app/)
+3. Travel with me [Link](https://david171901.github.io/Travel_Page_TailwindsCSS/)
+
 
 ## Support
 
-If you need help or have any questions, please don't hesitate to reach out to me. You can contact me through GitHub or email at david.16ps@gmail.com.
+If you are looking for a committed, passionate, and experienced web developer, feel free to contact me. I would love to be a part of your team on exciting and challenging web projects. I am ready to put my skills and experience to work for you!. You can contact me through email at david.16ps@gmail.com or david.pino@unmsm.edu.pe .
 
 
 ## Badges 
